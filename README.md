@@ -1,5 +1,3 @@
-# tryhackme-bolt-room-walkthrough
-
 # Bolt CMS Security Assessment – TryHackMe Room
 
 Welcome to the repository for the **Bolt CMS Security Assessment** performed against the [TryHackMe "Bolt" room](https://tryhackme.com/room/bolt). This repository contains the official penetration test report and supporting materials for a black-box assessment of a Bolt CMS environment.
