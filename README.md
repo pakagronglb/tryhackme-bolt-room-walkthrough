@@ -6,7 +6,8 @@ Welcome to the repository for the **Bolt CMS Security Assessment** performed aga
 
 ## 📄 Report
 
-The complete, detailed report is available here: [THM-Bolt-Report-1.pdf](./THM-Bolt-Report-1.pdf)
+The complete, detailed report is available here: [[THM-Bolt-Report.pdf](https://github.com/user-attachments/files/21213771/THM-Bolt-Report.pdf)
+])
 
 ---
 
@@ -60,9 +61,3 @@ This repository is intended **solely for educational and research purposes**. Al
 **Do not attempt these techniques on any system without explicit authorisation.**
 
 ---
-
-For further details, please consult the full in-depth report: [THM-Bolt-Report-1.pdf](./THM-Bolt-Report-1.pdf)
-
-This version maintains a professional tone, includes all relevant references, and clearly points to the attached report for technical depth and evidence[1].
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/41350668/324c82c4-7a5a-4120-8f8a-aa4eb6f2b30f/THM-Bolt-Report-1.pdf
